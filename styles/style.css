@@ -42,6 +42,7 @@ header nav {
 
 header nav ul {
     height: 100%;
+    margin-left: 7px;
 }
 
 header nav ul li {
@@ -52,7 +53,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-    margin: auto 55px;
+    margin: auto 53px;
     text-decoration: none;
     color: inherit;
 }
@@ -75,7 +76,7 @@ header nav ul li:hover {
     width: 90%;
     background-color: #383838d0;
     text-align: center;
-    height: 100%;
+    height: 433px;
 }
 
 #content-team {
